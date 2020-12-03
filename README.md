@@ -15,8 +15,7 @@
 - 🤔 I’m looking for help with GoLang
 - 💬 Ask me about Machine learning,Deep learning,competitive coding and Front-end development  
 - 📫 How to reach me: mail me at - kumaramanjha2901@gmail.com
-- 🤖 Interests in Robotics,Automatic cars,medicine 
-- 😊 Me and my friends organisation - Catalyst
+- 🤖 Interests in Robotics,Computer vision,problem solving
 
 ## Always learn,Never Stop!
 # Those who dream don't get scared.
