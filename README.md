@@ -2,6 +2,8 @@
 
 ![1](https://github.com/Amankumar29/Amankumar29/blob/master/Amangif.gif)
 
+![](https://komarev.com/ghpvc/?username=Arraxx&color=blueviolet)
+
 <p align="left">
   <a href="https://www.linkedin.com/in/aman-kumar-6b31b9127/">Linkedin</a> •
   <a href="https://twitter.com/Amankum95995329">Twitter</a> •
