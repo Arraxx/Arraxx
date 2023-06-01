@@ -25,9 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arraxx&layout=compact&theme=radical" alt="Arraxx" /></p>
 &nbsp;
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arraxx&show_icons=true&theme=radical" alt="Arraxx" /></p>
-&nbsp;
-<p></p>
-<br>
 
 ## Always learn,Never Stop!
