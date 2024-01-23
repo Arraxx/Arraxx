@@ -4,12 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Arraxx&color=blueviolet)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aman-kumar-6b31b9127/">Linkedin</a> •
-  <a href="https://twitter.com/Amankum95995329">Twitter</a> •
-  <a href="https://www.hackerrank.com/_Coderbabu_">Hackerrank</a> •
-</p>
-
 
 - 🔭 I’m an open source contributor,a Software Developer
 - 🌱 I’m currently learning iOS
