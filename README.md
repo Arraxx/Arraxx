@@ -11,13 +11,11 @@
 </p>
 
 
-- 🔭 I’m an open source contributor,a machine learning enthusiast 
-     and a front-end developer
-- 🌱 I’m currently learning Artificial Intelligence
-- 🤔 I’m looking for help with GoLang
-- 💬 Ask me about Machine learning,Deep learning,competitive coding and Front-end development  
+- 🔭 I’m an open source contributor,a Software Developer
+- 🌱 I’m currently learning iOS
+- 💬 Ask me about iOS, Android, competitive coding ... 
 - 📫 How to reach me: mail me at - kumaramanjha2901@gmail.com
-- 🤖 Interests in Robotics,Computer vision,problem solving
+- 🤖 Interests in App Development,Computer vision,problem solving
 
 
 <br>
